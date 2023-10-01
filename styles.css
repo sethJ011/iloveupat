@@ -1,0 +1,20 @@
+body {
+    background-image: url(bg_2.png);
+    font-family: cursive;
+
+}
+.intro {
+    text-align: center;
+}
+h1 {
+    color: #FB2943;
+}
+.content {
+    width: 80%;
+    background-color: #FB2943;
+    color: #FEFCFF;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
